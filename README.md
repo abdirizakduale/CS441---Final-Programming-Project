@@ -56,7 +56,7 @@ cd CS441-Final-Programming-Project
 ### Running the Code
 After installing the necessary libraries, you can run:
 ```bash
-python Final_Project.py
+python3 Final_Project.py
 ```
 
 The script will process the data, run the analyses, and generate various saved figures (Please comment out the graphs that you want one at a time). The terminal output will show summary statistics, cross-validation accuracies, the best model identified, test-set performance metrics, and a classification report. The created graphs will be saved as PNG files in the current directory.
