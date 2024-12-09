@@ -49,16 +49,16 @@ pip install pandas matplotlib seaborn numpy scipy scikit-learn
 ### Cloning the Repository
 To get the code:
 ```bash
-git clone <REPO_URL>
-cd <REPO_DIRECTORY>
+git clone [<REPO_URL>](https://github.com/abdirizakduale/CS441-Final-Programming-Project.git)
+cd CS441-Final-Programming-Project
 ```
 
 ### Running the Code
 After installing the necessary libraries, you can run:
 ```bash
-python <SCRIPT_NAME>.py
+python Final_Project.py
 ```
 
-The script will process the data, run the analyses, and generate various saved figures. The terminal output will show summary statistics, cross-validation accuracies, the best model identified, test-set performance metrics, and a classification report. The created graphs will be saved as PNG files in the current directory.
+The script will process the data, run the analyses, and generate various saved figures (Please comment out the graphs that you want one at a time). The terminal output will show summary statistics, cross-validation accuracies, the best model identified, test-set performance metrics, and a classification report. The created graphs will be saved as PNG files in the current directory.
 
 This setup provides a complete, end-to-end approach for understanding breast cancer tumor characteristics, evaluating different machine learning models, and presenting results through comprehensive visualizations.
