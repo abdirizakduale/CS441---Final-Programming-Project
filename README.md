@@ -49,7 +49,7 @@ pip install pandas matplotlib seaborn numpy scipy scikit-learn
 ### Cloning the Repository
 To get the code:
 ```bash
-git clone [<REPO_URL>](https://github.com/abdirizakduale/CS441-Final-Programming-Project.git)
+git clone https://github.com/abdirizakduale/CS441-Final-Programming-Project.git
 cd CS441-Final-Programming-Project
 ```
 
